@@ -8,4 +8,4 @@ $ mvn test
 ```
 
 # Jacoco Report
-  Now check the "target/site" directory for Jacoco reports will be generated.
+  Now check the "target/site" directory for the generated Jacoco reports.
