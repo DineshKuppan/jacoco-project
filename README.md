@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/DineshKuppan/jacoco-project.svg?branch=master)](https://travis-ci.org/DineshKuppan/jacoco-project)
+
 # jacoco-project
   Sample project to start with Jacoco implementation
 
